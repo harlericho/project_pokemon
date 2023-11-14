@@ -1,6 +1,4 @@
-# Django python project books
-
-Programa sencillo de un crud de libro realizado en django python - sqlite3
+# Django python
 
 ![](https://neuralcovenant.files.wordpress.com/2020/09/django.png)
 
